@@ -1,5 +1,5 @@
 # image_picker
-<img src="https://github.com/ianSurii/image_picker/blob/main/flutter_01.png" widht="50px",height="100px">
+<img src="https://github.com/ianSurii/image_picker/blob/main/flutter_01.png" width="100px",height="150px">
 
 <h1>Server code</h1>
 <code>
