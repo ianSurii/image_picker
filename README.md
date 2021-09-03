@@ -3,8 +3,9 @@
 ![image](https://github.com/ianSurii/image_picker/blob/main/flutter_01.png)
 
 <h1>Server code</h1>
-<blockquote>
-<code> 
+
+    ```php
+    <?php
 $return["error"] = false;
 $return["msg"] = "";
 
@@ -22,5 +23,5 @@ if(isset($_POST["image"] )){
 header('Content-Type: application/json');
 
 echo json_encode($return);
-</code>
-</blockquote>
+?>
+
